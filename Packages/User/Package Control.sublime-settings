@@ -1,0 +1,22 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"C# Snippets",
+		"Clickable URLs",
+		"Git",
+		"GitGutter",
+		"Logstash Syntax Highlighting",
+		"Package Control",
+		"Seti_UI",
+		"Seti_UX",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeREPL",
+		"Sublimerge Pro"
+	]
+}
