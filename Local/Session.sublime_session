@@ -26,6 +26,14 @@
 						"buffer_size": 1045,
 						"line_ending": "Unix"
 					}
+				},
+				{
+					"file": "/C/Users/Tovin/AppData/Roaming/Sublime Text 3/.gitignore",
+					"settings":
+					{
+						"buffer_size": 179,
+						"line_ending": "Unix"
+					}
 				}
 			],
 			"build_system": "",
@@ -81,6 +89,8 @@
 			},
 			"file_history":
 			[
+				"/C/Users/Tovin/AppData/Roaming/Sublime Text 3/.gitignore",
+				"/C/Users/Tovin/.ssh/id_rsa.pub",
 				"/C/Users/Tovin/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
 			],
 			"find":
@@ -116,7 +126,7 @@
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 1,
 					"sheets":
 					[
 						{
@@ -132,8 +142,8 @@
 								"selection":
 								[
 									[
-										530,
-										530
+										404,
+										404
 									]
 								],
 								"settings":
@@ -144,6 +154,37 @@
 									"synced": false,
 									"syntax": "Packages/JavaScript/JSON.tmLanguage",
 									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/Tovin/AppData/Roaming/Sublime Text 3/.gitignore",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 179,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										179,
+										179
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Seti_UI/Langs/Git.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -195,7 +236,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,2,-32000,-32000,-1,-1,773,234,234,890",
+			"position": "0,2,3,-32000,-32000,-1,-1,773,234,234,890",
 			"project": "",
 			"replace":
 			{
